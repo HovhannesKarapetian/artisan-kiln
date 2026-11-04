@@ -2,6 +2,9 @@
 
 Одностраничное приложение для заказа плитки: корзина с пересчётом сумм, конструктор узора 7×7 на десктопе и форма оформления с валидацией.
 
+- **Demo:** https://artisan-kiln-r29t.vercel.app/
+- **Репозиторий:** https://github.com/HovhannesKarapetian/artisan-kiln
+
 **Стек:** Next.js 14 (App Router) · TypeScript (strict) · Tailwind CSS 3 · Redux Toolkit · framer-motion · Vitest
 
 ## Запуск
